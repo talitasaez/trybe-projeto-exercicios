@@ -1,1 +1,4 @@
-# trybe-projeto-exercicios
+mudanca de nome 
+
+
+##incluindo informacoes   
